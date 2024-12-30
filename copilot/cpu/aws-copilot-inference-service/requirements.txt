@@ -2,3 +2,4 @@ aiohttp==3.8.1       # Stable version compatible with Python 3.9
 onnxruntime==1.8.1   # Retained as per your setup; use onnxruntime-gpu if GPU acceleration is needed
 Pillow==9.4.0        # Latest stable version for image processing
 gunicorn==20.1.0     # Lightweight WSGI HTTP server, compatible with aiohttp
+numpy>=1.21.0
